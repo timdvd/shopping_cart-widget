@@ -28,4 +28,4 @@ Screenshots:
 ![Screenshot 2025-01-25 202110](https://github.com/user-attachments/assets/04b6efbd-fcd7-4ec7-8c27-403a5124c810)
 
 Preview: 
-https://timdvd.github.io/calendar_widget/
+https://timdvd.github.io/shopping_cart-widget/
